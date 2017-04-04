@@ -1,0 +1,10 @@
+{
+	"log": {
+		"path": "C:/develop/cpp/webc/logs"
+	},
+
+	"server": {
+		"listen": 80,
+		"listen_count": 10
+	}
+}
